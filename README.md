@@ -4,7 +4,8 @@ upAjax
 Kleines Plugin zum einfachen Daten austausch zwischen dem Client und dem Server.
 In der PHP werden die Funktionen registriert die per JavaScript aufgerufen werden können.
 
-### PHP Seitig --------------------------------------------------------------------------------
+### PHP Seitig 
+### ---------------------------------------------------------------------------------------------------------------
 upAjax Klasse einbinden
 ```php
 require_once('class/upAjax.php');
@@ -35,7 +36,8 @@ $upAjax->regFunction('helloWorld');
 $upAjax->regFunction('getForm');
 ```
 
-### Javascript Seitig -------------------------------------------------------------------------
+### Javascript Seitig
+### ---------------------------------------------------------------------------------------------------------------
 
 FormData verschicken
 
