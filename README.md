@@ -11,12 +11,12 @@ upAjax Klasse einbinden
 require_once('class/upAjax.php');
 
 // Funktion die übers JavaScript aufgerufen werden soll
-function helloWorld($eins,$zwei,$drei) {
+function helloWorld($argONe,$argTwo,$argThree) {
 
     echo 'Hello WORLD';
-    print_r( $eins);
-    echo $zwei;
-    echo $drei;
+    print_r($argONe);
+    echo $argTwo;
+    echo $argThree;
 }
 
 // Funktion die übers JavaScript aufgerufen werden soll
