@@ -1,7 +1,7 @@
 upAjax
 ======
 
-Kleines Plugin zum einfachen Daten austausch zwischen dem Client und dem Server.
+Kleines Plug-In zum einfachen datenaustausch zwischen dem Client und dem Server.
 In der PHP werden die Funktionen registriert die per JavaScript aufgerufen werden können.
 
 ### PHP Seitig 
